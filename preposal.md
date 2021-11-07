@@ -2,12 +2,11 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+laser tripwire that sends an email when it detects a intruder
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+NA
 
 ## Do you have any questions of your own?
-
-TODO
+will a physical tripwire be needed for this final project?
