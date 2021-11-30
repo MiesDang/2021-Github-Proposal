@@ -1,0 +1,16 @@
+# Status Report
+Mies Dang
+#### project leader
+Mies Dang
+Project title
+Laser detector sends message to phone after tripped
+
+#### what have you done for the project so far?
+
+i have made the physical laser detector stystem and am now coding in ELEGOO to send the message and detect when the laser go off
+
+#### What have i not done for the project?
+I have not been able to send the message or be able to detect the laser.
+
+### what problems, if any, have you encountered??
+the main problem is learning how to code on the Arduino because it is alittle different from phython.
