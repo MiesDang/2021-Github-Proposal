@@ -7,10 +7,10 @@ Laser detector sends message to phone after tripped
 
 #### what have you done for the project so far?
 
-i have made the physical laser detector stystem and am now coding in ELEGOO to send the message and detect when the laser go off
+i have made the physical laser detector stystem using a Arduino board. I am now coding in Arduino for alerts when the laser is tripped.
 
 #### What have i not done for the project?
-I have not been able to send the message or be able to detect the laser.
+I have not been able to send the message, might have to find a different way to alert the person instead of a text message. 
 
 ### what problems, if any, have you encountered??
-the main problem is learning how to code on the Arduino because it is alittle different from phython.
+the main problem is learning how to code on the Arduino because it is different from phython. I also had problems with setting up the physical laser detector.
