@@ -18,3 +18,7 @@ else{
   Serial.println(lightStatus);
   }
 }
+# Credit to the youtube videos that helped me work my way though this project, helped me discover arduino code and its effect on the elegoo tech. also helped me with building the laser detector stystem as well as explaining the breakboard.
+#https://www.youtube.com/watch?v=jylRtUDgFp8&t=0s
+#https://www.youtube.com/watch?v=LrertgGJk4U&t=0s
+#https://www.youtube.com/watch?v=XZ4pQHWJXZU&t=85s
