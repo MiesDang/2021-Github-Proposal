@@ -1,0 +1,20 @@
+const int buzzerPin = 8;
+const int lightPin = A1;
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(lightPin, INPUT);
+  pinMode(buzzerPin, OUTPUT);
+}
+
+void loop() {
+int lightStatus = analogRead(lightPin);
+if (lightStatus <= 900) {
+digitalWrite(buzzerPin, LOW);
+Serial.println(lightStatus);
+}
+else{
+  digitalWrite(buzzerPin,HIGH);
+  Serial.println(lightStatus);
+  }
+}
